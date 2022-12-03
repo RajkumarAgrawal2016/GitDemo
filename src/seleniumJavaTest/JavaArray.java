@@ -32,5 +32,14 @@ public class JavaArray {
 		}
 
 	}
+	
+	public void test() {
+		System.out.println(" New methos created");
+		
+	}
+	public void test1() {
+		System.out.println(" New methos created1");
+		
+	}
 
 }
