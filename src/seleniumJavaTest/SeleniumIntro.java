@@ -44,6 +44,11 @@ public class SeleniumIntro {
 		System.out.println(driver.getTitle());
 
 		System.out.println(driver.getCurrentUrl());
+		
+		System.out.println("Demoproject created");
+		System.out.println("Demoproject started");
+		System.out.println("Demoproject closed");
+		
 
 		driver.close();
 
