@@ -26,6 +26,8 @@ public class JavaArray {
 			else
 			{
 				System.out.println(b + " is not multiple of 2");
+				System.out.println(b + "Develop brnach created");
+				System.out.println(b + " Develop branch chanaged");
 			}
 		}
 
