@@ -49,6 +49,10 @@ public class SeleniumIntro {
 		System.out.println("Demoproject started");
 		System.out.println("Demoproject closed");
 		
+		System.out.println("Demoproject1");
+		System.out.println("Demoproject2");
+		System.out.println("Demoproject3");
+		
 
 		driver.close();
 

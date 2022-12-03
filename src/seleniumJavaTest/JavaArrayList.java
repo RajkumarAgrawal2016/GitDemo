@@ -13,7 +13,11 @@ public class JavaArrayList {
 		a.add("Selenium");
 		a.get(2);
 		
+		
 		System.out.println(a.get(2));
+		System.out.println(a.get(3));
+		System.out.println(a.get(4));
+		System.out.println(a.get(1));
 
 	}
 
